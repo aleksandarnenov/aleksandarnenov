@@ -1,16 +1,20 @@
-## Hi there 👋
+# Aleksandar Nenov
 
-<!--
-**aleksandarnenov/aleksandarnenov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Solutions Consultant  
+AWS Certified Security – Specialty | Multi-Cloud | Presales & Partner Enablement  
 
-Here are some ideas to get you started:
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba-Cloud-red?logo=alibabacloud&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Specialty-blue?logo=shield&logoColor=white)
+![FinOps](https://img.shields.io/badge/FinOps-Cost%20Optimization-brightgreen)
+![Presales](https://img.shields.io/badge/Presales-Enablement-lightgrey)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Welcome to my GitHub profile.  
+Most of my repositories are **private** due to client and project confidentiality.  
+
+For my latest public content and insights:  
+- [LinkedIn](https://www.linkedin.com/in/aleksandarnenov/)  
+- [Medium](https://medium.com/aleksandar-nenov-aws-posts)  
+- [X / Twitter](https://x.com/aleksandarnenov)

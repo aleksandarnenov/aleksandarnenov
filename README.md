@@ -18,3 +18,5 @@ For my latest public content and insights:
 - [LinkedIn](https://www.linkedin.com/in/aleksandarnenov/)  
 - [Medium](https://medium.com/aleksandar-nenov-aws-posts)  
 - [X / Twitter](https://x.com/aleksandarnenov)
+
+> Note (2025): For my AWS Hero and CloudWebOps legacy overview → [aleksandarnenov.com/cloudwebops](https://aleksandarnenov.com/cloudwebops)

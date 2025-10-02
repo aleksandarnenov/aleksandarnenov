@@ -3,7 +3,6 @@
 Cloud Solutions Consultant | AWS Certified Security - Specialty | AWS Presales & Partner Enablement  
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba-Cloud-red?logo=alibabacloud&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Specialty-blue?logo=shield&logoColor=white)
 ![FinOps](https://img.shields.io/badge/FinOps-Cost%20Optimization-brightgreen)
 ![Presales](https://img.shields.io/badge/Presales-Enablement-lightgrey)

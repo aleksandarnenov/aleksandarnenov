@@ -1,6 +1,6 @@
 # Aleksandar Nenov
 
-Cloud Solutions Consultant | AWS Certified Security - Specialty | AWS Presales & Partner Enablement  
+AWS Cloud Presales Consultant | AWS Certified Security – Specialty | Partner Enablement
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Specialty-blue?logo=shield&logoColor=white)

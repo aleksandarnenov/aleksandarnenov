@@ -1,6 +1,6 @@
 # Aleksandar Nenov
 
-AWS Cloud Presales Consultant | AWS Certified Security – Specialty | Partner Enablement
+AWS Presales & Cloud Advisory | Architecture Review | Cost & Security Governance
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Specialty-blue?logo=shield&logoColor=white)
@@ -16,5 +16,3 @@ For my latest public content and insights:
 - [LinkedIn](https://www.linkedin.com/in/aleksandarnenov/)  
 - [Medium](https://medium.com/aleksandar-nenov-aws-posts)  
 - [X / Twitter](https://x.com/aleksandarnenov)
-
-> Note (2025): For my AWS Hero and CloudWebOps legacy overview → [aleksandarnenov.com/cloudwebops](https://aleksandarnenov.com/cloudwebops)

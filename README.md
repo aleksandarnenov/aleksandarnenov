@@ -3,9 +3,9 @@
 AWS Presales & Cloud Advisory | Architecture Review | Cost & Security Governance
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Specialty-blue?logo=shield&logoColor=white)
-![FinOps](https://img.shields.io/badge/FinOps-Cost%20Optimization-brightgreen)
-![Presales](https://img.shields.io/badge/Presales-Enablement-lightgrey)
+![Security](https://img.shields.io/badge/Security-Governance-blue?logo=shield&logoColor=white)
+![Cost](https://img.shields.io/badge/Cost-Risk%20and%20Governance-brightgreen)
+![Presales](https://img.shields.io/badge/Presales-Architecture%20Review-lightgrey)
 
 ---
 

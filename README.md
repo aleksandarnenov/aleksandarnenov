@@ -9,10 +9,10 @@ AWS Presales & Cloud Advisory | Architecture Review | Cost & Security Governance
 
 ---
 
-Welcome to my GitHub profile.  
-Most of my repositories are **private** due to client and project confidentiality.  
+Welcome to my GitHub profile.
+This space contains public reference material related to AWS presales, architecture review, and early-stage decision support.
 
-For my latest public content and insights:  
+Related professional profiles:  
 - [LinkedIn](https://www.linkedin.com/in/aleksandarnenov/)  
 - [Medium](https://medium.com/aleksandar-nenov-aws-posts)  
 - [X / Twitter](https://x.com/aleksandarnenov)

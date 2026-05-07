@@ -1,6 +1,6 @@
 # Aleksandar Nenov
 
-AWS Technical Presales & Cloud Advisory | Architecture Feasibility Review | Cost & Security Governance
+AWS Technical Presales & Cloud Advisory | Opportunity Qualification | Cost Drivers | Security Governance
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
 ![Security](https://img.shields.io/badge/Security-Governance-blue?logo=shield&logoColor=white)
